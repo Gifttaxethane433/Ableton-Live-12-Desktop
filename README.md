@@ -1,7 +1,3 @@
-
-<img width="778" height="512" alt="20260324_0844_Image Generation_remix_01kmfxz1t1eq4ravrmpq1wz47y(1)" src="https://github.com/user-attachments/assets/663c5e55-ecde-45c7-9b76-c8b20b789736" />
-
-
 # Ableton Live 12 Suite Full Version 2026 – Music Production DAW for Windows
 [![Stars](https://img.shields.io/github/stars/skulldxss/Ableton-Live-12-Desktop)](https://github.com/skulldxss/Ableton-Live-12-Desktop) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
